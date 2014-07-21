@@ -128,6 +128,7 @@ New topics for STAT 545A and/or STAT 547M will be selected from here:
     - [`ggvis` package](http://ggvis.rstudio.com) | [on GitHub](https://github.com/rstudio/ggvis)
   * [Dynamic documents with R and knitr](http://www.crcpress.com/product/isbn/9781482203530) by Yihui Xie, part of the CRC Press / Chapman & Hall R Series (2013). ISBN: 9781482203530. *No online access (yet?).*
   * [Reproducible Research with R & RStudio](http://www.crcpress.com/product/isbn/9781466572843) by Christopher Gandrud, part of the CRC Press / Chapman & Hall R Series (2013). ISBN: 978-1466572843 | [Book website](http://christophergandrud.github.io/RepResR-RStudio/) | [Examples and code](https://github.com/christophergandrud/Rep-Res-Examples) | [Book source](https://github.com/christophergandrud/Rep-Res-Book). *No online access (yet?).*
+  * [Rmarkdown](http://rmarkdown.rstudio.com) is "an authoring format that enables easy creation of dynamic documents, presentations, and reports from R."
   * [Practical Data Science With R](http://www.manning.com/zumel/) by Nina Zumel and John Mount, published by Manning.
   * Tidy data
     - Nine simple ways to make it easier to (re)use your data by EP White, E Baldridge, ZT Brym, KJ Locey, DJ McGlinn, SR Supp. *Ideas in Ecology and Evolution* 6(2): 1–10, 2013. doi:10.4033/iee.2013.6b.6.f <http://library.queensu.ca/ojs/index.php/IEE/article/view/4608>
