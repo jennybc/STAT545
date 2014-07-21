@@ -1,7 +1,3 @@
----
-output: html_document
----
-
 # STAT 545A Exploratory Data Analysis and STAT 547M Basic Training for Data Science
 
 ## Basic facts
