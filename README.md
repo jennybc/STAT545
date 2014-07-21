@@ -122,9 +122,10 @@ New topics for STAT 545A and/or STAT 547M will be selected from here:
 
   * [Bad Data Handbook](http://shop.oreilly.com/product/0636920024422.do) by By Q. Ethan McCallum, published by O'Reilly. *"In short, Bad Data is data that gets in the way."*
   * [Creating More Effective Graphs](http://www.amazon.com/Creating-Effective-Graphs-Naomi-Robbins/dp/0985911123) by Naomi B. Robbins
-  * Grammar of graphics, as implemented in R by Hadley Wickham and others.
-    - [ggplot2 package web home](http://ggplot2.org) | [online docs](http://docs.ggplot2.org/current/) especially nice
+  * Grammar of graphics, as implemented in R by Hadley Wickham, Winston Chang, and others.
+    - [`ggplot2` package web home](http://ggplot2.org) | [online docs](http://docs.ggplot2.org/current/) especially nice
     - `ggplot2`: Elegant Graphics for Data Analysis [book available via SpringerLink](http://ezproxy.library.ubc.ca/login?url=http://link.springer.com.ezproxy.library.ubc.ca/book/10.1007/978-0-387-98141-3/page/1) by Hadley Wickham, Springer (2009) | [author's website for the book](http://ggplot2.org/book/), including all the code
+    - [`ggvis` package](http://ggvis.rstudio.com) | [on GitHub](https://github.com/rstudio/ggvis)
   * [Dynamic documents with R and knitr](http://www.crcpress.com/product/isbn/9781482203530) by Yihui Xie, part of the CRC Press / Chapman & Hall R Series (2013). ISBN: 9781482203530. *No online access (yet?).*
   * [Reproducible Research with R & RStudio](http://www.crcpress.com/product/isbn/9781466572843) by Christopher Gandrud, part of the CRC Press / Chapman & Hall R Series (2013). ISBN: 978-1466572843 | [Book website](http://christophergandrud.github.io/RepResR-RStudio/) | [Examples and code](https://github.com/christophergandrud/Rep-Res-Examples) | [Book source](https://github.com/christophergandrud/Rep-Res-Book). *No online access (yet?).*
   * [Practical Data Science With R](http://www.manning.com/zumel/) by Nina Zumel and John Mount, published by Manning.
