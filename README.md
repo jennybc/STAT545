@@ -9,15 +9,17 @@
 | credits  | 1.5                             | 1.5                             |
 | dates    | Sep 02, 2014 to Oct 19, 2014    | Oct 20, 2014 to Nov 28, 2014    |
 | meets    | Mon Wed 9:30 - 11am             | Mon Wed 9:30 - 11am             |
-| where    | [ESB 1042][esb1042] (may change)| [ESB 1042][esb1042] (may change)|
+| where    | [GEOG 200][geog200] (new!)      | [GEOG 200][geog200] (new!)      |
 | pre-req  | none (but see below)            | STAT 545A                       |
 
 [esb1042]: http://www.maps.ubc.ca/?225
+[geog200]: http://www.students.ubc.ca/classroomservices/buildings-and-classrooms/?code=GEOG&room=200
 [SSC 545A]: https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=5&dept=STAT&course=545A&section=101
 [SSC 547M]: https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=5&dept=STAT&course=547M&section=101
 
 Instructor: [Jennifer (Jenny) Bryan][jb], <jenny@stat.ubc.ca>  
-TA: *TBD ... if you or someone you know would be awesome, please get in touch!*  
+TA: Dean Attali (STAT 545A)  
+Other assistance from Shaun Jackman, Bernhard Konrad, Julia Gustavsen
 
 [jb]: http://www.stat.ubc.ca/~jenny/
 
